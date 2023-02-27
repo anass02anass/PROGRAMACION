@@ -30,7 +30,8 @@ public class ejercicio16 {
 				ConsultarClientes();
 				break;
 			case 3:
-				ConsultarClientesMor();
+				ConultarClientesMor();
+				break ;
 				
 			case 4:
 			case 5:
